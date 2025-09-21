@@ -99,3 +99,13 @@
 #### Результат:
 
 ![img](img/screenshot_5.png)
+
+---
+
+### Задание 5* 
+
+Интегрируйте Grafana и Prometheus.
+
+#### Результат:
+
+![img](img/screenshot_6.png)
